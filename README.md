@@ -1,1 +1,1 @@
-# Happy-Ladybugs-algo
+# Happy-The function first counts occurrences of each ladybug color and checks if there is at least one empty cell (_) to allow rearrangement. If no empty cells exist, it verifies whether all ladybugs are already adjacent to another of the same color to determine happiness.Ladybugs-algo 
